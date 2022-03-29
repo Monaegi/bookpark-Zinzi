@@ -40,7 +40,7 @@ jmespath==0.9.3
 kombu==4.1.0
 oauthlib==2.0.6
 olefile==0.44
-paramiko==2.4.0
+paramiko==2.10.1
 parso==0.1.0
 pathspec==0.5.0
 pexpect==4.3.0
